@@ -1,0 +1,11 @@
+/home/ravi/LPM tasks/fullstack_axum_sqlx_yew_crud_implementation/GUI_frontend/target/debug/deps/libgloo_net-ae26d1254a60d094.rmeta: /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-net-0.1.0/src/lib.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-net-0.1.0/src/error.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-net-0.1.0/src/http/mod.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-net-0.1.0/src/http/headers.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-net-0.1.0/src/websocket/mod.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-net-0.1.0/src/websocket/events.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-net-0.1.0/src/websocket/futures.rs
+
+/home/ravi/LPM tasks/fullstack_axum_sqlx_yew_crud_implementation/GUI_frontend/target/debug/deps/gloo_net-ae26d1254a60d094.d: /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-net-0.1.0/src/lib.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-net-0.1.0/src/error.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-net-0.1.0/src/http/mod.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-net-0.1.0/src/http/headers.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-net-0.1.0/src/websocket/mod.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-net-0.1.0/src/websocket/events.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-net-0.1.0/src/websocket/futures.rs
+
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-net-0.1.0/src/lib.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-net-0.1.0/src/error.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-net-0.1.0/src/http/mod.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-net-0.1.0/src/http/headers.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-net-0.1.0/src/websocket/mod.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-net-0.1.0/src/websocket/events.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-net-0.1.0/src/websocket/futures.rs:

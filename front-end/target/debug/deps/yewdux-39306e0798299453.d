@@ -1,0 +1,12 @@
+/home/ravi/LPM tasks/fullstack_axum_sqlx_yew_crud_implementation/GUI_frontend/target/debug/deps/libyewdux-39306e0798299453.rmeta: /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yewdux-0.9.3/src/lib.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yewdux-0.9.3/src/context.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yewdux-0.9.3/src/dispatch.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yewdux-0.9.3/src/functional.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yewdux-0.9.3/src/listener.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yewdux-0.9.3/src/mrc.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yewdux-0.9.3/src/store.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yewdux-0.9.3/src/subscriber.rs
+
+/home/ravi/LPM tasks/fullstack_axum_sqlx_yew_crud_implementation/GUI_frontend/target/debug/deps/yewdux-39306e0798299453.d: /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yewdux-0.9.3/src/lib.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yewdux-0.9.3/src/context.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yewdux-0.9.3/src/dispatch.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yewdux-0.9.3/src/functional.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yewdux-0.9.3/src/listener.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yewdux-0.9.3/src/mrc.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yewdux-0.9.3/src/store.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yewdux-0.9.3/src/subscriber.rs
+
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yewdux-0.9.3/src/lib.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yewdux-0.9.3/src/context.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yewdux-0.9.3/src/dispatch.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yewdux-0.9.3/src/functional.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yewdux-0.9.3/src/listener.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yewdux-0.9.3/src/mrc.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yewdux-0.9.3/src/store.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yewdux-0.9.3/src/subscriber.rs:

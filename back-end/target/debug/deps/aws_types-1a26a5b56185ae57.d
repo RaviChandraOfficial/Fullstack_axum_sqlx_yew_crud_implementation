@@ -1,0 +1,16 @@
+/home/ravi/LPM tasks/fullstack_axum_sqlx_yew_crud_implementation/Backend_crud_implementation/target/debug/deps/libaws_types-1a26a5b56185ae57.rmeta: /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-1.1.8/src/lib.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-1.1.8/src/app_name.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-1.1.8/src/build_metadata.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-1.1.8/src/endpoint_config.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-1.1.8/src/os_shim_internal.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-1.1.8/src/region.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-1.1.8/src/request_id.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-1.1.8/src/sdk_config.rs /home/ravi/LPM\ tasks/fullstack_axum_sqlx_yew_crud_implementation/Backend_crud_implementation/target/debug/build/aws-types-263d908ba02bdadf/out/build_env.rs
+
+/home/ravi/LPM tasks/fullstack_axum_sqlx_yew_crud_implementation/Backend_crud_implementation/target/debug/deps/aws_types-1a26a5b56185ae57.d: /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-1.1.8/src/lib.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-1.1.8/src/app_name.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-1.1.8/src/build_metadata.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-1.1.8/src/endpoint_config.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-1.1.8/src/os_shim_internal.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-1.1.8/src/region.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-1.1.8/src/request_id.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-1.1.8/src/sdk_config.rs /home/ravi/LPM\ tasks/fullstack_axum_sqlx_yew_crud_implementation/Backend_crud_implementation/target/debug/build/aws-types-263d908ba02bdadf/out/build_env.rs
+
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-1.1.8/src/lib.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-1.1.8/src/app_name.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-1.1.8/src/build_metadata.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-1.1.8/src/endpoint_config.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-1.1.8/src/os_shim_internal.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-1.1.8/src/region.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-1.1.8/src/request_id.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-types-1.1.8/src/sdk_config.rs:
+/home/ravi/LPM\ tasks/fullstack_axum_sqlx_yew_crud_implementation/Backend_crud_implementation/target/debug/build/aws-types-263d908ba02bdadf/out/build_env.rs:
+
+# env-dep:CARGO_PKG_VERSION=1.1.8
+# env-dep:OUT_DIR=/home/ravi/LPM tasks/fullstack_axum_sqlx_yew_crud_implementation/Backend_crud_implementation/target/debug/build/aws-types-263d908ba02bdadf/out

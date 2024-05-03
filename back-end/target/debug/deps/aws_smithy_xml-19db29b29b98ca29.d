@@ -1,0 +1,9 @@
+/home/ravi/LPM tasks/fullstack_axum_sqlx_yew_crud_implementation/Backend_crud_implementation/target/debug/deps/libaws_smithy_xml-19db29b29b98ca29.rmeta: /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-smithy-xml-0.60.7/src/lib.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-smithy-xml-0.60.7/src/decode.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-smithy-xml-0.60.7/src/encode.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-smithy-xml-0.60.7/src/escape.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-smithy-xml-0.60.7/src/unescape.rs
+
+/home/ravi/LPM tasks/fullstack_axum_sqlx_yew_crud_implementation/Backend_crud_implementation/target/debug/deps/aws_smithy_xml-19db29b29b98ca29.d: /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-smithy-xml-0.60.7/src/lib.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-smithy-xml-0.60.7/src/decode.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-smithy-xml-0.60.7/src/encode.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-smithy-xml-0.60.7/src/escape.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-smithy-xml-0.60.7/src/unescape.rs
+
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-smithy-xml-0.60.7/src/lib.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-smithy-xml-0.60.7/src/decode.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-smithy-xml-0.60.7/src/encode.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-smithy-xml-0.60.7/src/escape.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-smithy-xml-0.60.7/src/unescape.rs:
