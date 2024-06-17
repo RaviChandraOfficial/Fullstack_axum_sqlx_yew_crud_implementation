@@ -1,0 +1,10 @@
+[serve]
+# The address to serve on LAN.
+address = "0.0.0.0"
+# The address to serve on WAN.
+address_wan = "0.0.0.0"
+# The port to serve on.
+port = 8080
+
+
+

@@ -1,0 +1,11 @@
+/home/ravi/ECL2 Projects/project yashwanth/temp/Fullstack_axum_sqlx_yew_crud_implementation/back-end/target/debug/deps/libcc-43cbf622ac7f664b.rmeta: /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/lib.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/windows/mod.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/windows/find_tools.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/command_helpers.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/tool.rs
+
+/home/ravi/ECL2 Projects/project yashwanth/temp/Fullstack_axum_sqlx_yew_crud_implementation/back-end/target/debug/deps/libcc-43cbf622ac7f664b.rlib: /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/lib.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/windows/mod.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/windows/find_tools.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/command_helpers.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/tool.rs
+
+/home/ravi/ECL2 Projects/project yashwanth/temp/Fullstack_axum_sqlx_yew_crud_implementation/back-end/target/debug/deps/cc-43cbf622ac7f664b.d: /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/lib.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/windows/mod.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/windows/find_tools.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/command_helpers.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/tool.rs
+
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/lib.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/windows/mod.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/windows/find_tools.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/command_helpers.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.90/src/tool.rs:

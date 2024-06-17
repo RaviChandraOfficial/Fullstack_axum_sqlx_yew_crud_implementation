@@ -1,0 +1,20 @@
+/home/ravi/ECL2 Projects/project yashwanth/SensorSync/AWSiot/target/debug/deps/libzip-493c041add03311d.rmeta: /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/lib.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/compression.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/cp437.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/crc32.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/extra_fields/mod.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/extra_fields/extended_timestamp.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/read.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/read/stream.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/result.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/spec.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/types.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/write.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/zipcrypto.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/unstable.rs
+
+/home/ravi/ECL2 Projects/project yashwanth/SensorSync/AWSiot/target/debug/deps/zip-493c041add03311d.d: /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/lib.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/compression.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/cp437.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/crc32.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/extra_fields/mod.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/extra_fields/extended_timestamp.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/read.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/read/stream.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/result.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/spec.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/types.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/write.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/zipcrypto.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/unstable.rs
+
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/lib.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/compression.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/cp437.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/crc32.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/extra_fields/mod.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/extra_fields/extended_timestamp.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/read.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/read/stream.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/result.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/spec.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/types.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/write.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/zipcrypto.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zip-1.1.4/src/unstable.rs:
+
+# env-dep:CARGO_PKG_VERSION=1.1.4

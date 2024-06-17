@@ -1,0 +1,10 @@
+/home/ravi/ECL2 Projects/project yashwanth/temp/Fullstack_axum_sqlx_yew_crud_implementation/back-end/target/debug/deps/libeither-7c9d774908808049.rmeta: /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.10.0/src/lib.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.10.0/src/serde_untagged.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.10.0/src/serde_untagged_optional.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.10.0/src/iterator.rs
+
+/home/ravi/ECL2 Projects/project yashwanth/temp/Fullstack_axum_sqlx_yew_crud_implementation/back-end/target/debug/deps/libeither-7c9d774908808049.rlib: /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.10.0/src/lib.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.10.0/src/serde_untagged.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.10.0/src/serde_untagged_optional.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.10.0/src/iterator.rs
+
+/home/ravi/ECL2 Projects/project yashwanth/temp/Fullstack_axum_sqlx_yew_crud_implementation/back-end/target/debug/deps/either-7c9d774908808049.d: /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.10.0/src/lib.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.10.0/src/serde_untagged.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.10.0/src/serde_untagged_optional.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.10.0/src/iterator.rs
+
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.10.0/src/lib.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.10.0/src/serde_untagged.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.10.0/src/serde_untagged_optional.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.10.0/src/iterator.rs:

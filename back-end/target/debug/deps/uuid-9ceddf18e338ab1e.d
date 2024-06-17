@@ -1,0 +1,12 @@
+/home/ravi/LPM tasks/fullstack_axum_sqlx_yew_crud_implementation/Backend_crud_implementation/target/debug/deps/libuuid-9ceddf18e338ab1e.rmeta: /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/lib.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/builder.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/error.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/parser.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/fmt.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/timestamp.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/external.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/macros.rs
+
+/home/ravi/LPM tasks/fullstack_axum_sqlx_yew_crud_implementation/Backend_crud_implementation/target/debug/deps/uuid-9ceddf18e338ab1e.d: /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/lib.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/builder.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/error.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/parser.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/fmt.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/timestamp.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/external.rs /home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/macros.rs
+
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/lib.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/builder.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/error.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/parser.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/fmt.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/timestamp.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/external.rs:
+/home/ravi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.7.0/src/macros.rs:

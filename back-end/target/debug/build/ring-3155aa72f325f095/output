@@ -1,0 +1,3 @@
+cargo:rustc-link-lib=static=ring-core
+cargo:rustc-link-lib=static=ring-test
+cargo:rustc-link-search=native=/home/ravi/ECL2 Projects/project yashwanth/temp/Fullstack_axum_sqlx_yew_crud_implementation/back-end/target/debug/build/ring-3155aa72f325f095/out
